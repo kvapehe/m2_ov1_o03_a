@@ -1,5 +1,9 @@
 /**
  * Eksperimentere med github hyppig commit
+ * 
+ * Oppgave 3
+ * 
+ * Lag et program som kontinuerlig "blinker" hjerteikonet av og på.
  */
 basic.forever(function () {
     music.ringTone(175)
