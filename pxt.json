@@ -1,6 +1,6 @@
 {
     "name": "m2_ov1_o03_a",
-    "version": "0.1.0",
+    "version": "0.1.1",
     "description": "",
     "dependencies": {
         "core": "*",
