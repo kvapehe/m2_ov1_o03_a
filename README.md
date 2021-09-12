@@ -1,5 +1,6 @@
 
 > Åpne denne siden på [https://kvapehe.github.io/m2_ov1_o03_a/](https://kvapehe.github.io/m2_ov1_o03_a/)
+> Snapshot: https://makecode.microbit.org/_XwHDWHi4E7cc
 
 ## Bruk som utvidelse
 
