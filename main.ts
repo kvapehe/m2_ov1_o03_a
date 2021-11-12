@@ -31,12 +31,12 @@ t2 = 200
  */
 basic.forever(function () {
     basic.showIcon(IconNames.SmallHeart)
-    music.ringTone(165)
+    music.ringTone(262)
     basic.pause(70)
     music.rest(music.beat(BeatFraction.Whole))
     basic.pause(t1)
     basic.showIcon(IconNames.Heart)
-    music.ringTone(165)
+    music.ringTone(262)
     basic.pause(100)
     music.rest(music.beat(BeatFraction.Whole))
     basic.pause(t2)
